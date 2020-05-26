@@ -1,0 +1,6 @@
+This Textfile is used to describe the problem and the background:
+
+Berlin is known to be one of the most multi-cultural cities in europe and has a lot to offer in terms of restaurants, beergardens etc. 
+The problem statement for this project is where to open a new coffee inside the Berlin main area.
+This problem is relevant for every young entrepreneur who is looking to rise a new business inside Berlin.
+Especially due to political and industrial density, the location matters a lot and gives this project even more meaning . 
