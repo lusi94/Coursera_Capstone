@@ -1,0 +1,3 @@
+The Data used to find the best location for a  new coffee in Berlin is based on the foursquare location API. 
+The Idea is to find low density spots with high walk-through rate in neighborhoods of good reputation. 
+To find those spots, a density-map is created showing all coffes and giving insight on free areas. 
