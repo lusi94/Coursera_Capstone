@@ -1,0 +1,26 @@
+INTRODUCTION:
+Berlin is known to be one of the most multi-cultural cities in europe and has a lot to offer in terms of restaurants, beergardens etc. 
+The problem statement for this project is where to open a new coffee inside the Berlin main area.
+This problem is relevant for every young entrepreneur who is looking to rise a new business inside Berlin.
+Especially due to political and industrial density, the location matters a lot and gives this project even more meaning. 
+
+DATA:
+The Data used to find the best location for a  new coffee in Berlin is based on the foursquare location API. 
+The Idea is to find low density spots with high walk-through rate in neighborhoods of good reputation. 
+To find those spots, a density-map is created showing all coffes and giving insight on free areas. 
+
+METHODOLOGY:
+In this project, no exploratory data analaysis was necessary since its density based and only relies on the foursquare API data. 
+
+RESULTS:
+The Data clearly indicates that around the politcal center, close to Brandenbruger Tor, there are almost no coffees at all. Moreover, the eastern Part of Berlin
+south to Prenzlauer Breg shows great potential for a new coffee since the are almost no competitiors in this area. 
+
+DISCUSSION:
+Looking at the different areas with low coffee density, I would suggest the area near Brandenburger Tor. It's and area thats most visited by tourists and in addition,
+its close to the political centre of Berlin which offers another great opportunity for customer aquisition. 
+
+CONCLUSION: 
+To conclude this Project, we can say that there are still a few areas in Berlin which have a low density in coffee's and with regard to Berlin's development throughout 
+the past years, this situation can be exploited quite easily thanks to the density analysis carried out in this project. However, one should keep in mind that 
+the foursquare API explicitly searched for coffees and thus did not consider restaurants and bars. When choosing a location to open a new business, this can be another factor. 
